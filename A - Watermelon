@@ -25,8 +25,6 @@ signed main()
     cin.tie(nullptr);
     int weight;
     cin >> weight; 
-    cout << canDivideWatermelon(weight) << endl;
- }
-             
+    cout << canDivideWatermelon(weight) << endl;           
     return 0;
 }
